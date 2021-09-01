@@ -1,0 +1,26 @@
+div{
+    width: 100%;
+    height: 5rem;
+    background-color:#200202;
+}
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+nav a:hover,
+nav a:active{
+    color: #ce28ce;
+}
